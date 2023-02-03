@@ -1,6 +1,5 @@
-[![Header](https://blog.testproject.io/wp-content/uploads/2020/08/24-08-B.jpg)]
-## I'm a Junior QA Engineer 
-## I am currently looking for a job 
+![Header](https://blog.testproject.io/wp-content/uploads/2020/08/24-08-B.jpg)
+## I'm a Junior QA Engineer and currently looking for a job 
 ## My CV
 [Link to my CV](https://myresume.ru/resume/AiFvnDXu9QW/)
 
