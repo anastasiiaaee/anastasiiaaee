@@ -20,11 +20,11 @@
 
 ### Testing Documentation
 
-- [Checklists](https://github.com/artichokeee/checklist)
-- [Test-Suites and Test-Cases](https://github.com/artichokeee/test-cases)
-- [Bug-Reports](https://github.com/artichokeee/bug-reports)
-- [SQL Queries](https://github.com/artichokeee/SQL)
-- [Postman Collections](https://github.com/artichokeee/postman)
+- [Checklists](https://github.com/anastasiiaaee/checklists)
+- [Bug-Reports](https://github.com/anastasiiaaee/bag-reports)
+- [SQL](https://github.com/anastasiiaaee/SQL)
+- [Postman Collections](https://github.com/anastasiiaaee/postman)
+- [Charles](https://github.com/anastasiiaaee/charles)
 
 ### Follow Me
 [![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)]([https://www.linkedin.com/in/anastasia-ershova])
