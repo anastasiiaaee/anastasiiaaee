@@ -1,5 +1,15 @@
 ![Header](https://blog.testproject.io/wp-content/uploads/2020/08/24-08-B.jpg)
 ## I'm a Junior QA Engineer and currently looking for a job 
+- Basic knowledge of software development methodologies 
+- Familiarity with software testing tools and frameworks
+- Ability to write and execute test cases and test scripts
+- Knowledge of software testing techniques 
+- Ability to analyze and interpret test results
+- Strong problem-solving skills
+- Excellent written and verbal communication skills
+- Ability to work collaboratively in a team environment
+- Ability to learn new technologies and software applications quickly
+
 ## My CV
 [Link to my CV](https://myresume.ru/resume/AiFvnDXu9QW/)
 
