@@ -40,10 +40,6 @@ The service helps analyze a task, detect the task type, identify the main risk, 
 - Markdown export
 - quality control of AI-generated QA content
 
-## My CV
-
-[Link to my CV](https://myresume.ru/resume/AiFvnDXu9QW/)
-
 ## Languages and Tools
 
 ![Jira](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
