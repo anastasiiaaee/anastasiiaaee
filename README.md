@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1672" height="941" alt="AD74F951-6398-4282-AF7C-C655A31A73C1" src="https://github.com/user-attachments/assets/9a25c6d1-40cc-42d5-8ebc-60d1d893190a" />
+
 
 
 ### ENGINEERING CONFIDENCE INTO EVERY RELEASE
