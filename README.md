@@ -1,6 +1,6 @@
 <div align="center">
+<img width="1672" height="941" alt="AD74F951-6398-4282-AF7C-C655A31A73C1" src="https://github.com/user-attachments/assets/9a25c6d1-40cc-42d5-8ebc-60d1d893190a" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:090B18,45:39216D,100:00D9FF&text=ANASTASIA%20ERSHOVA&fontColor=FFFFFF&fontSize=43&fontAlignY=39&desc=LEAD%20QA%20ENGINEER%20%2F%20QUALITY%20STRATEGY%20%2F%20AI&descAlignY=61&descSize=15&animation=fadeIn" width="100%" alt="Anastasia Ershova — Lead QA Engineer"/>
 
 ### ENGINEERING CONFIDENCE INTO EVERY RELEASE
 
