@@ -1,72 +1,111 @@
+<div align="center">
 
-## Hi, I'm Anastasiia — Lead QA Engineer
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:090B18,45:39216D,100:00D9FF&text=ANASTASIIA%20ERSHOVA&fontColor=FFFFFF&fontSize=43&fontAlignY=39&desc=LEAD%20QA%20ENGINEER%20%2F%20QUALITY%20STRATEGY%20%2F%20AI&descAlignY=61&descSize=15&animation=fadeIn" width="100%" alt="Anastasiia Ershova — Lead QA Engineer"/>
 
-Lead QA Engineer with 3+ years in QA and 10+ years of overall professional experience, including enterprise/B2G systems, release quality, API and integration testing, regression, defect management and QA process improvement.
+### ENGINEERING CONFIDENCE INTO EVERY RELEASE
 
-Currently focused on quality strategy, risk-based testing, release readiness, go/no-go decisions, test documentation, API/backend testing and AI-assisted QA tools.
+**Lead QA Engineer** · **3+ years in QA** · **10+ years of professional experience**
 
-## Key Expertise
+Enterprise / B2G systems &nbsp;•&nbsp; API & integration quality &nbsp;•&nbsp; Risk-based testing &nbsp;•&nbsp; AI-assisted QA
 
-- QA Lead / Lead QA Engineer
-- Manual, functional, regression and smoke testing
-- API and integration testing
-- REST API, Postman, Swagger, JSON
-- SQL / PostgreSQL
-- Release management and go/no-go decisions
-- Defect management and quality risks
-- Test planning, checklists and test cases
-- QA process improvement
-- Jenkins / CI/CD understanding
-- AI-assisted testing and test case generation
+[![LinkedIn](https://img.shields.io/badge/CONNECT_ON_LINKEDIN-111827?style=for-the-badge&logo=linkedin&logoColor=00D9FF)](https://www.linkedin.com/in/anastasia-ershova)
+[![Projects](https://img.shields.io/badge/EXPLORE_PROJECTS-111827?style=for-the-badge&logo=github&logoColor=BB86FC)](#selected-projects)
 
-## Pet Project
+</div>
 
-### QA Test Case Generator
+---
 
-AI-assisted QA tool for generating test models and test cases from task descriptions, bug reports and functional requirements.
+### 01 / ABOUT
 
-The service helps analyze a task, detect the task type, identify the main risk, generate core and extended coverage, positive and negative test cases, questions for analysts, risks and automation recommendations.
+I help teams ship with confidence — by turning complex requirements, integrations and release risks into clear, actionable quality decisions.
 
-**Tech stack:** Python, Flask, OpenAI API, HTML/CSS
+My focus spans **QA strategy**, **test planning**, **API/backend and integration testing**, **regression coverage**, **defect management**, and **release readiness / go-no-go recommendations**. I'm also exploring how AI can make QA analysis more rigorous and efficient.
 
-**Focus:**
-- risk-based test coverage
-- bugfix and regression scenarios
-- integration/API checks
-- data mapping checks
-- positive and negative test cases
-- automation recommendations
-- Markdown export
-- quality control of AI-generated QA content
+> **My approach:** Understand the risk. Design the coverage. Make quality visible.
 
-## Languages and Tools
+### 02 / EXPERTISE
 
-![Jira](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
-![Confluence](https://img.shields.io/badge/Confluence-090909?style=for-the-badge&logo=confluence&logoColor=136be1)
-![Postman](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
-![Swagger](https://img.shields.io/badge/Swagger-090909?style=for-the-badge&logo=swagger&logoColor=7ede2b)
-![SQL](https://img.shields.io/badge/SQL-090909?style=for-the-badge&logo=postgresql&logoColor=336791)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-090909?style=for-the-badge&logo=postgresql&logoColor=336791)
-![GitHub](https://img.shields.io/badge/GitHub-090909?style=for-the-badge&logo=github&logoColor=8cc4d7)
-![Jenkins](https://img.shields.io/badge/Jenkins-090909?style=for-the-badge&logo=jenkins&logoColor=d24939)
-![Git](https://img.shields.io/badge/Git-090909?style=for-the-badge&logo=git&logoColor=f05032)
-![DevTools](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
-![Figma](https://img.shields.io/badge/Figma-090909?style=for-the-badge&logo=figma&logoColor=7d5fa6)
-![TestRail](https://img.shields.io/badge/TestRail-090909?style=for-the-badge&logo=&logoColor=71b556)
-![Charles Proxy](https://img.shields.io/badge/CharlesProxy-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
-![Python](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=python&logoColor=3776ab)
-![Flask](https://img.shields.io/badge/Flask-090909?style=for-the-badge&logo=flask&logoColor=ffffff)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-090909?style=for-the-badge&logo=openai&logoColor=ffffff)
+| QUALITY LEADERSHIP | HANDS-ON ENGINEERING | PROCESS & TOOLING |
+| :--- | :--- | :--- |
+| Risk-based test strategy | Functional / regression / smoke | Test plans, cases & checklists |
+| Release readiness & go/no-go | REST API / integration testing | Jira / Confluence / TestRail |
+| Defect triage & quality risks | Postman / Swagger / JSON | Jenkins / CI/CD familiarity |
+| QA process improvement | SQL / PostgreSQL / DevTools | AI-assisted QA workflows |
 
-## Testing Documentation
+### 03 / SELECTED PROJECTS
 
-- [QA Test Case Generator](https://github.com/anastasiiaaee/qa-testcase-generator)
-- [Checklists](https://github.com/anastasiiaaee/checklists)
-- [Bug Reports](https://github.com/anastasiiaaee/bag-reports)
-- [Postman Collections](https://github.com/anastasiiaaee/postman)
-- [Charles](https://github.com/anastasiiaaee/charles)
-- [SQL](https://github.com/anastasiiaaee/SQL)
+<!-- PROJECTS: Add a new project card here when you publish a repository. -->
 
-## Follow Me
+<table>
+<tr>
+<td width="50%" valign="top">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/anastasia-ershova)
+**✦ QA TEST CASE GENERATOR** `AI · QA · PYTHON`
+
+AI-assisted test analysis from requirements, task descriptions and bug reports.
+
+**Capabilities:** risk identification, core and extended coverage, positive/negative scenarios, analyst questions, integration checks, automation suggestions and Markdown export.
+
+**Stack:** Python · Flask · OpenAI API · HTML/CSS
+
+[View project →](https://github.com/anastasiiaaee/qa-testcase-generator)
+
+<sub>Repository currently private; access requires permission.</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**✦ NEXT PROJECT** `COMING SOON`
+
+A space for upcoming experiments in QA engineering, AI-powered tools and interactive web experiences.
+
+**Next release:** add a repository link, concise problem statement, stack and a screenshot or demo.
+
+<sub>Designed to grow with the portfolio.</sub>
+
+</td>
+</tr>
+</table>
+
+### 04 / QA LAB
+
+A collection of practical testing artifacts and engineering exercises.
+
+| COLLECTION | WHAT'S INSIDE |
+| :--- | :--- |
+| [Checklists ↗](https://github.com/anastasiiaaee/checklists) | Structured test coverage |
+| [Bug reports ↗](https://github.com/anastasiiaaee/bag-reports) | Defect documentation |
+| [Postman ↗](https://github.com/anastasiiaaee/postman) | API testing workspace |
+| [Charles Proxy ↗](https://github.com/anastasiiaaee/charles) | Traffic inspection |
+| [SQL ↗](https://github.com/anastasiiaaee/SQL) | Database queries and practice |
+
+### 05 / TOOLKIT
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-101323?style=for-the-badge&logo=python&logoColor=00D9FF)
+![Flask](https://img.shields.io/badge/Flask-101323?style=for-the-badge&logo=flask&logoColor=FFFFFF)
+![Postman](https://img.shields.io/badge/Postman-101323?style=for-the-badge&logo=postman&logoColor=FF6C37)
+![Swagger](https://img.shields.io/badge/Swagger-101323?style=for-the-badge&logo=swagger&logoColor=85EA2D)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-101323?style=for-the-badge&logo=postgresql&logoColor=74B8FF)
+![Git](https://img.shields.io/badge/Git-101323?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-101323?style=for-the-badge&logo=github&logoColor=FFFFFF)
+![Jenkins](https://img.shields.io/badge/Jenkins-101323?style=for-the-badge&logo=jenkins&logoColor=E67A7A)
+![Jira](https://img.shields.io/badge/Jira-101323?style=for-the-badge&logo=jira&logoColor=6EABFF)
+![Confluence](https://img.shields.io/badge/Confluence-101323?style=for-the-badge&logo=confluence&logoColor=6EABFF)
+![Figma](https://img.shields.io/badge/Figma-101323?style=for-the-badge&logo=figma&logoColor=CB9BFF)
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-101323?style=for-the-badge&logo=openai&logoColor=FFFFFF)
+
+</div>
+
+---
+
+<div align="center">
+
+**BUILD · TEST · REFINE · REPEAT**
+
+<sub>Quality is not a final checkpoint. It's a way of thinking.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=0:090B18,45:39216D,100:00D9FF" width="100%" alt="Gradient footer"/>
+
+</div>
