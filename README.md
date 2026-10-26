@@ -1,4 +1,3 @@
-![Header](https://blog.testproject.io/wp-content/uploads/2020/08/24-08-B.jpg)
 
 ## Hi, I'm Anastasiia — Lead QA Engineer
 
