@@ -1,111 +1,120 @@
 <div align="center">
 
+ANASTASIA ERSHOVA
 
+AI WORKFLOW AUTOMATION & ADOPTION
 
-### ENGINEERING CONFIDENCE INTO EVERY RELEASE
+Lead QA Engineer | AI-Assisted QA
 
-**Lead QA Engineer** · **3+ years in QA** · **10+ years of professional experience**
-
-Enterprise / B2G systems &nbsp;•&nbsp; API & integration quality &nbsp;•&nbsp; Risk-based testing &nbsp;•&nbsp; AI-assisted QA
-
-[![LinkedIn](https://img.shields.io/badge/CONNECT_ON_LINKEDIN-111827?style=for-the-badge&logo=linkedin&logoColor=00D9FF)](https://www.linkedin.com/in/anastasia-ershova)
-[![Projects](https://img.shields.io/badge/EXPLORE_PROJECTS-111827?style=for-the-badge&logo=github&logoColor=BB86FC)](#selected-projects)
+AI Automation · Business Process Improvement · Quality Assurance · Digital Solutions
 
 </div>
 
----
+⸻
 
-### 01 / ABOUT
+01 / ABOUT
 
-I help teams ship with confidence — by turning complex requirements, integrations and release risks into clear, actionable quality decisions.
+I help businesses identify inefficiencies, automate workflows, and implement practical AI solutions — from process analysis and implementation to team training and ongoing optimization.
 
-My focus spans **QA strategy**, **test planning**, **API/backend and integration testing**, **regression coverage**, **defect management**, and **release readiness / go-no-go recommendations**. I'm also exploring how AI can make QA analysis more rigorous and efficient.
+My background in QA leadership, enterprise systems, and process improvement brings a structured, quality-focused approach to AI adoption and digital solutions.
 
-> **My approach:** Understand the risk. Design the coverage. Make quality visible.
+I combine technical expertise with AI tools to create practical solutions that improve workflows, support teams, and simplify complex processes.
 
-### 02 / EXPERTISE
+Open to remote projects, consulting, and international collaborations.
 
-| QUALITY LEADERSHIP | HANDS-ON ENGINEERING | PROCESS & TOOLING |
-| :--- | :--- | :--- |
-| Risk-based test strategy | Functional / regression / smoke | Test plans, cases & checklists |
-| Release readiness & go/no-go | REST API / integration testing | Jira / Confluence / TestRail |
-| Defect triage & quality risks | Postman / Swagger / JSON | Jenkins / CI/CD familiarity |
-| QA process improvement | SQL / PostgreSQL / DevTools | AI-assisted QA workflows |
+02 / MY SERVICES
 
-### 03 / SELECTED PROJECTS
+SERVICE	WHAT I DO
+AI Workflow Automation & Process Optimization	Identify workflow inefficiencies, explore automation opportunities, implement AI-powered solutions, and optimize existing processes.
+AI-Assisted QA & Software Testing	Apply AI to test analysis, test case generation, risk identification, and QA workflow improvement.
+AI-Powered Websites & Digital Solutions	Create websites, interactive digital experiences, AI-powered applications, and automation tools.
+AI Consulting & Team Training	Help businesses select appropriate AI tools, introduce practical AI workflows, and support teams in adopting new technologies.
 
-<!-- PROJECTS: Add a new project card here when you publish a repository. -->
+03 / QA EXPERTISE
+
+Lead QA Engineer | 3+ Years in QA | 10+ Years of Professional Experience
+
+Experience in enterprise and B2G systems, API and integration quality, software testing, and release management.
+
+QUALITY LEADERSHIP	TESTING & ENGINEERING	PROCESS & TOOLS
+Test Strategy	Manual & Functional Testing	Jira / Confluence / TestRail
+Risk-Based Testing	API & Integration Testing	Postman / Swagger / JSON
+Release Readiness	Regression & Smoke Testing	SQL / PostgreSQL
+Quality Assurance	Defect Management	Jenkins / CI/CD
+Risk Management	Backend Testing	DevTools / Git
+
+04 / SELECTED PROJECTS
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**✦ QA TEST CASE GENERATOR** `AI · QA · PYTHON`
+✦ QA TEST CASE GENERATOR
 
-AI-assisted test analysis from requirements, task descriptions and bug reports.
+AI · QA · PYTHON
 
-**Capabilities:** risk identification, core and extended coverage, positive/negative scenarios, analyst questions, integration checks, automation suggestions and Markdown export.
+AI-assisted test analysis from requirements, task descriptions, and bug reports.
 
-**Stack:** Python · Flask · OpenAI API · HTML/CSS
+Capabilities: Risk identification, test coverage, positive and negative scenarios, integration checks, automation suggestions, and Markdown export.
 
-[View project →](https://github.com/anastasiiaaee/qa-testcase-generator)
+Stack: Python · Flask · OpenAI API · HTML/CSS
 
-<sub>Repository currently private; access requires permission.</sub>
+View repository →
+
+Private repository — access requires permission.
 
 </td>
 <td width="50%" valign="top">
 
-**✦ NEXT PROJECT** `COMING SOON`
+✦ AFTER DARK
 
-A space for upcoming experiments in QA engineering, AI-powered tools and interactive web experiences.
+CREATIVE WEB · AI · DIGITAL EXPERIENCES
 
-**Next release:** add a repository link, concise problem statement, stack and a screenshot or demo.
+Personal creative portfolio exploring the intersection of AI, interactive web design, and digital experiences.
 
-<sub>Designed to grow with the portfolio.</sub>
+Focus: Cinematic web experiences, AI visuals, interactive design, and AI-powered digital solutions.
+
+Status: In development.
+
+View repository →
+
+Public website not yet launched.
 
 </td>
 </tr>
 </table>
 
-### 04 / QA LAB
+05 / QA LAB
 
-A collection of practical testing artifacts and engineering exercises.
+Practical testing artifacts and technical exercises.
 
-| COLLECTION | WHAT'S INSIDE |
-| :--- | :--- |
-| [Checklists ↗](https://github.com/anastasiiaaee/checklists) | Structured test coverage |
-| [Bug reports ↗](https://github.com/anastasiiaaee/bag-reports) | Defect documentation |
-| [Postman ↗](https://github.com/anastasiiaaee/postman) | API testing workspace |
-| [Charles Proxy ↗](https://github.com/anastasiiaaee/charles) | Traffic inspection |
-| [SQL ↗](https://github.com/anastasiiaaee/SQL) | Database queries and practice |
+COLLECTION	DESCRIPTION
+Checklists ↗	Structured test coverage
+Bug Reports ↗	Defect documentation
+Postman ↗	API testing
+Charles Proxy ↗	Traffic inspection
+SQL ↗	Database queries and practice
 
-### 05 / TOOLKIT
+06 / TOOLKIT
 
 <div align="center">
-
-![Python](https://img.shields.io/badge/Python-101323?style=for-the-badge&logo=python&logoColor=00D9FF)
-![Flask](https://img.shields.io/badge/Flask-101323?style=for-the-badge&logo=flask&logoColor=FFFFFF)
-![Postman](https://img.shields.io/badge/Postman-101323?style=for-the-badge&logo=postman&logoColor=FF6C37)
-![Swagger](https://img.shields.io/badge/Swagger-101323?style=for-the-badge&logo=swagger&logoColor=85EA2D)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-101323?style=for-the-badge&logo=postgresql&logoColor=74B8FF)
-![Git](https://img.shields.io/badge/Git-101323?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-101323?style=for-the-badge&logo=github&logoColor=FFFFFF)
-![Jenkins](https://img.shields.io/badge/Jenkins-101323?style=for-the-badge&logo=jenkins&logoColor=E67A7A)
-![Jira](https://img.shields.io/badge/Jira-101323?style=for-the-badge&logo=jira&logoColor=6EABFF)
-![Confluence](https://img.shields.io/badge/Confluence-101323?style=for-the-badge&logo=confluence&logoColor=6EABFF)
-![Figma](https://img.shields.io/badge/Figma-101323?style=for-the-badge&logo=figma&logoColor=CB9BFF)
-![OpenAI API](https://img.shields.io/badge/OpenAI_API-101323?style=for-the-badge&logo=openai&logoColor=FFFFFF)
-
 </div>
 
----
+07 / LET’S CONNECT
+
+Have an idea for an AI automation, digital solution, or workflow improvement?
+
+Let’s explore how to turn it into a practical project.
+
+<div align="center">
+</div>
+
+⸻
 
 <div align="center">
 
-**BUILD · TEST · REFINE · REPEAT**
+ANASTASIA ERSHOVA
 
-<sub>Quality is not a final checkpoint. It's a way of thinking.</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=0:090B18,45:39216D,100:00D9FF" width="100%" alt="Gradient footer"/>
+AI Workflow Automation & Adoption · AI-Assisted QA · Digital Solutions
 
 </div>
